@@ -1,0 +1,95 @@
+
+h1,h2{color:rgb(143, 95, 95);
+font-size:40;
+}
+
+
+img{display:block;
+    max-width:100%;
+    }
+
+    *{text-align:center;
+    background-color:-#3b3833;
+    }
+
+    figure {border: solid #c7bca9 6px;
+            max-width: 60%;
+            margin: auto;}
+
+    #img-caption{background-color:#c7bca9 ;
+border:#d6cdc2;
+padding-bottom:10;
+padding-top:10;} 
+
+h2{padding-top:20;
+padding-bottom:0;
+background-color:transparent;
+ }
+
+#tribute-info
+ {color:#d6cdc2;
+font-size:20px;
+background-color:transparent;
+max-width:60%;
+margin:auto;
+ }
+
+#link, a, ul, #quote
+{color:#d6cdc2;
+ max-width:60%;
+ margin:auto;
+ font-size:20;
+}
+
+
+#dod{color:#8f8765;
+     font-size:16px;
+     background-color:transparent;
+     max-width: 100%;
+      }
+
+   
+     ul, li {
+  display: table;
+  margin: 0 auto;
+  background-color:transparent;
+  padding-right:20;
+  padding:20;
+  padding-top:5;
+   
+
+}
+
+#title{padding-top:30;
+padding-bottom:10;
+font-size:37}
+
+#subtitle {color:#d6cdc2;
+padding-bottom:20;
+ }
+
+
+#textwall {max-width:60%;
+ margin:auto;
+ background-color:rgba(63, 58, 38, 0.5);
+ display:block;
+    max-width:65%;
+    padding-top:20;
+    padding-bottom:30;
+    font-size:20px;
+ 
+  
+}
+
+
+a:hover {color:#8f8765;}
+
+#quote, #link {padding-top:20px;}
+
+
+
+body {background-image:url(castle.jpg);
+background-repeat: no-repeat, repeat;
+background-size:120% 100%;}
+
+#link {padding-bottom: 80px;}
